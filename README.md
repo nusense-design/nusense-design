@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh kotali</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Kotali</h1>
 <h3 align="center">A passionate Developer, learning & creating stuff all time.</h3>
 
 - 🔭 I’m currently working on **everything🦝**
