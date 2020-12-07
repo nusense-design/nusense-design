@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,JavaScript,Nodejs**
 
-- 👨‍💻 All of my projects are available at [https:www.nusense.in](https:www.nusense.in)
+- 👨‍💻 All of my projects are available at [nusense.in](www.nusense.in)
 
 - 💬 Ask me about **react,JavaScript,css**
 
