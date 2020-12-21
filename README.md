@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **adarsh121996@gmail.com**
 
-- ⚡ Crazy fact **Me and CSS were born on same month and same year too😏 !**
+- ⚡ Fun fact **I am not funny😪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
