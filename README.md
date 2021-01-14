@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [nusense.in](https:www.nusense.in)
 
-- 💬 Ask me about **react,JavaScript,css**
+- 💬 Ask me about **React,JavaScript,css**
 
 - 📫 How to reach me **adarsh121996@gmail.com**
 
