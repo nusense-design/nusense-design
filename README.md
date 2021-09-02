@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **everything🦝**
 
-- 🌱 I’m currently learning **React,JavaScript,Nodejs**
+- 🌱 I’m currently learning **Reactjs,Nextjs,JavaScript,React Native**
 
 - 👨‍💻 All of my projects are available at [nusense.in](https:www.nusense.in)
 
-- 💬 Ask me about **React,JavaScript,css**
+- 💬 Ask me about **React,JavaScript,css,scss ,tailwind, material ui, ant design **
 
 - 📫 How to reach me **adarsh121996@gmail.com**
 
