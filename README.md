@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kotali</h1>
 <h3 align="center">A passionate Developer, learning & creating stuff all the time.</h3>
 
-- 🔭 I’m currently working on **everything🦝**
+- 🔭 I’m currently working on **Reactjs, JavaScript**
 
-- 🌱 I’m currently learning **Reactjs,Nextjs,JavaScript,React Native**
+- 🌱 I’m currently learning **everything🦝**
 
 - 👨‍💻 All of my projects are available at [nusense.in](https:www.nusense.in)
 
