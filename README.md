@@ -22,7 +22,6 @@
 
 - 💼 Currently working at **Accenture** — building enterprise-scale frontend systems & microservices
 - 🔭 Crafting **admin portals, component libraries & rule engines** at production scale
-- 🎯 On a mission — **interview-ready for top product companies in 5 months**
 - 💬 Ask me about **React, Next.js, TypeScript, CSS/SCSS, Tailwind, Material UI, Ant Design**
 - 📍 Based in **Navi Mumbai, India**
 - ⚡ Fun fact: **I am not funny 😪 — but my code runs in production 🚀**
