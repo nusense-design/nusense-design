@@ -22,7 +22,7 @@
 
 - 🔭 Currently working on **microservices, admin portals & component libraries**
 - 🌱 Always learning — currently diving deep into **distributed systems & cloud-native patterns**
-- 🛠️ I build things with **React, Node.js, Java, Docker & Kubernetes**
+- 🛠️ I build things with **React, Node.js, Docker & Kubernetes**
 - 💬 Ask me about **React, JavaScript, CSS/SCSS, Tailwind, Material UI, Ant Design**
 - ⚡ Fun fact: **I am not funny 😪 — but my code runs in production 🚀**
 
@@ -60,7 +60,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshkotali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
@@ -75,4 +75,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adarshkotali&label=Profile+Views&color=6C63FF&style=flat" alt="Profile views" />
-</p>
+</p> -->
